@@ -3,4 +3,5 @@
 
 绘制效果如下（左图为无切线空间的法线贴图，右图为有切线空间的法线贴图）：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/11ee3697901d460893e60b747988c6f2.png)
+![image](https://github.com/UestcXiye/OpenGL_Tangent/assets/58623498/a03c4f93-d1c3-458a-9f06-1e2432e7790b)
+
